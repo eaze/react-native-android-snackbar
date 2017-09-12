@@ -18,7 +18,7 @@ public class ReactSnackbarPackage implements ReactPackage {
         );
     }
 
-    @Override
+    // RN > 0.47 compatibility @Override
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }

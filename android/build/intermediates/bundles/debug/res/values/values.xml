@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/ericacooksey/Eaze/react-native-android-snackbar/android/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="bg_default">#323232</color>
+    <color name="eaze_red">#B53553</color>
+</resources>
